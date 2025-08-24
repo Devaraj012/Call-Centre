@@ -38,5 +38,3 @@ It helps management track **call volumes, agent performance, issue resolution, a
 - **Average Call Duration:** 224.9 seconds
 
 ---
-
-## 📂 Project Structure
